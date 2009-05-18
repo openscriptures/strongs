@@ -1,0 +1,382 @@
+1,46c1,12
+<                      Dictionary of Greek Words
+< 			      taken from
+<                    Strong's Exhaustive Concordance
+<                                   by
+<                      James Strong, S.T.D., LL.D.
+<                                  1890
+< 
+<                      Public Domain -- Copy Freely
+< 
+< XML e-text version
+< ==================
+< 
+< The XML version of this work was prepared in 2006 by Ulrik Petersen
+< (http://ulrikp.org) from the ASCII e-text version presented below.
+< The XML version contains "real" UTF-8 Greek where the original ASCII
+< e-text version had transliteration.  The XML has a stand-alone DTD
+< which should be easy to follow.
+< 
+< Ulrik Petersen welcomes bugfixes to the text.  Please send them to the
+< address provided on the website:
+< 
+< http://ulrikp.org
+< 
+< 
+< Ulrik Petersen
+< 
+< 
+< 
+<      -------------- original announcement follows --------------
+< 
+< 
+<                 Dictionaries of Hebrew and Greek Words
+<                               taken from
+<                    Strong's Exhaustive Concordance
+<                                   by
+<                      James Strong, S.T.D., LL.D.
+<                                  1890
+< 
+<                      Public Domain -- Copy Freely
+< 
+< For a hundred years Strong's Dictionaries have been popular with Bible
+< students.  By assigning numbers to each unique word in the Old and New
+< Testaments and listing each word with its number, Strong produced a
+< standard, still used today, for referencing definitions. Bible
+< students, with little or no knowledge of Greek and Hebrew, are able to
+< use Strong's numbers to learn about the Greek and Hebrew of the Bible.
+---
+> Dictionaries of Hebrew and Greek Words taken from Strong's Exhaustive Concordance
+>   by James Strong, S.T.D., LL.D. 1890
+>   E-text by Michael Grier <http://www.bigmweb.com/home/>
+>   Corrected edition by Weston Ruter <http://weston.ruter.net/>
+>   Revision: 30
+> 
+> For a hundred years Strong's Dictionaries have been popular with Bible students.
+> By assigning numbers to each unique word in the Old and New Testaments and
+> listing each word with its number, Strong produced a standard, still used today,
+> for referencing definitions. Bible students, with little or no knowledge of
+> Greek and Hebrew, are able to use Strong's numbers to learn about the Greek and
+> Hebrew of the Bible.
+51,57c17,22
+< The files for this e-text were produced by Michael Grier,
+< mgrier@pdnt.com, in 1996, and download from
+< http://members.tripod.com/~SoftIdeas, in February 1998. The files have
+< been setup for importing into the Online Bible for DOS. But to make
+< these files into generic text files, all that is needed is to replace
+< the terms "GREEK" and "HEBREW" with "Greek" and "Hebrew" or the names
+< of the appropriate files.
+---
+> The files for this e-text were produced by Michael Grier, mgrier@pdnt.com,
+> in 1996, and download from  http://members.tripod.com/~SoftIdeas, in
+> February 1998. The files have been setup for importing into the Online
+> Bible for DOS. But to make these files into generic text files, all that
+> is needed is to replace the terms "GREEK" and "HEBREW" with "Greek" and
+> "Hebrew" or the names of the appropriate files. 
+71,90c36,45
+< Michael Grier did a check of the e-text against a printed Strong's
+< dictionary.  The work seems clean but more proofreading is needed to
+< certify it clean from errors.
+< 
+< Further info:
+< =============
+< 
+< If you are looking for Strong's that will self install into the Online
+< Bible see:
+<            Michael Grier
+<            mgrier@pdnt.com
+<            http://members.tripod.com/~SoftIdeas
+< 
+< If any errors are located, please ensure you have the latest files,
+< and if so, we would appreciate being informed of the error.
+< 
+<            Bible Foundation
+<            bf@bf.org
+<            http://www.bf.org/
+<            or the e-text Library
+---
+> Michael Grier did a check of the e-text against a printed Strong's dictionary.
+> The work seems clean but more proofreading is needed to certify it clean from
+> errors.
+> 
+> Corrected edition:
+> ==================
+> 
+> The initial edition of this e-text requested errors to be reported to Bible
+> Foundation. However, "Bible Foundation had to quit maintaining the e-text files
+> but they live on and many people around the world have been greatly blessed."
+92a48,93
+> Weston Ruter <http://weston.ruter.net/> noticed several typos and errors in the
+> text which have been proliferating throughout the Internet into projects such as
+> the NExT Bible, CrossWalk.com, and the XML e-text version found on MorphGNT.org.
+> Weston revised this ASCII e-text as part of an effort to make a new unified XML
+> document consisting of both the Greek and Hebrew entries. More information,
+> including the script used to make the corrections, diff patches, and other
+> editions of this text, are available on http://open-scriptures.org/
+> 
+> The base Greek and Hebrew e-texts used for this corrected edition was downloaded
+> from the SWORD project in December 2008:
+>  - http://www.crosswire.org/sword/modules/ModInfo.jsp?modName=StrongsGreek
+>  - http://www.crosswire.org/sword/modules/ModInfo.jsp?modName=StrongsHebrew
+> Both of these modules were versioned at 1.2 and dated 2002-01-01.
+> This corrected edition was published 2008-12-14.
+> 
+> Copyright info:
+> ===============
+> 
+> Strong's Dictionaries of Hebrew and Greek Words was published in 1890
+>    and so is in the public domain.
+> 
+> The original e-text was produced by Michael Grier <mgrier@pdnt.com> which is
+>   also in the public domain. http://members.tripod.com/~SoftIdeas
+> 
+> This corrected edition is released under the MIT License:
+> 
+> Copyright (c) 2008, Weston Ruter
+> 
+> Permission is hereby granted, free of charge, to any person obtaining a copy
+> of this software and associated documentation files (the "Software"), to deal
+> in the Software without restriction, including without limitation the rights
+> to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+> copies of the Software, and to permit persons to whom the Software is
+> furnished to do so, subject to the following conditions:
+> 
+> The above copyright notice and this permission notice shall be included in
+> all copies or substantial portions of the Software.
+> 
+> THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+> IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+> FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+> AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+> LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+> OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+> THE SOFTWARE.
+> 
+261c262
+<  see GREEK for 5689
+---
+>  see HEBREW for 5689
+1054c1055
+<  see GREEK for 5869
+---
+>  see HEBREW for 5869
+5030c5031
+<  from 575 and the middle voice of otheo or otho (to shove); to push
+---
+>  from 575 and the middle voice of otheo {o-theh'-o} or otho {o'-tho} (to shove); to push
+10170c10171
+<        duo   doo'-o (to sink);
+---
+>        duo  {doo'-o}  (to sink)
+10958,10960c10959
+<  1520  heis  hice
+< 
+<  (including the neuter (etc.) hen); 
+---
+>  1520  heis  hice   (including the neuter (etc.) hen);
+12039d12037
+< 
+15098,15100c15096
+< 
+<  also  estosan  es'-to-san, third person of the same;
+< 
+---
+>  also  estosan  {es'-to-san}, third person of the same
+15612,15618c15608,15609
+<  2147  heurisko  hyoo-ris'-ko,
+< 
+<  a prolonged form of a primary
+<        
+<        heuro     hyoo'-ro,      which 
+<                                 (together with another cognate form)
+<        
+---
+>  2147  heurisko  hyoo-ris'-ko,  a prolonged form of a primary
+>        heuro     hyoo'-ro,      which (together with another cognate form)
+15945,15946c15936,15937
+<  2192  echo  ekh'-o,    including an alternate form
+<        scheo skheh'-o;  (used in certain tenses only)
+---
+>  2192  echo  ekh'-o;    including an alternate form
+>        scheo  skheh'-o  (used in certain tenses only)
+16029c16020
+<        Dis   deece, which is otherwise obsolete;
+---
+>        Dis   {deece}, which is otherwise obsolete;
+20632,20634c20623
+<  from 2860;
+< 
+<  a diving-place, i.e. pond for bathing (or swimming):--pool.
+---
+>  from 2860; a diving-place, i.e. pond for bathing (or swimming):--pool.
+21403d21391
+< 
+22611c22599
+<  a shorter (and probably original) form of 1691; me:--I, me, my.
+---
+>  a shorter (and probably original) from of 1691; me:--I, me, my.
+23181c23169
+<  from 3203 and 3767 and 1065; so then at least:--nay but, yea doubtless
+---
+>  from 3303 and 3767 and 1065; so then at least:--nay but, yea doubtless
+23183c23171
+<  see GREEK for 3203
+---
+>  see GREEK for 3303
+23190c23178
+<  from 3203 and 5104; indeed though, i.e. however:--also, but, howbeit,
+---
+>  from 3303 and 5104; indeed though, i.e. however:--also, but, howbeit,
+23192c23180
+<  see GREEK for 3203
+---
+>  see GREEK for 3303
+24425,24427c24413
+<  or    Nazaret nad-zar-et'; 
+< 
+<  of uncertain derivation; Nazareth or Nazaret,
+---
+>  or Nazaret {nad-zar-et'}; of uncertain derivation; Nazareth or Nazaret,
+25175,25177c25161
+<  in all their inflections; 
+< 
+<  the definite article; the (sometimes to be
+---
+>  in all their inflections; the definite article; the (sometimes to be
+25457c25441
+<  from oiktos (pity); to exercise pity:--have compassion on.
+---
+>  from oiktos {oyk-tos'} (pity); to exercise pity:--have compassion on.
+25560c25544
+<  from 3641 and 6590; little-spirited, i.e.
+---
+>  from 3641 and 5590; little-spirited, i.e.
+25562c25546
+<  see GREEK for 6590
+---
+>  see GREEK for 5590
+25680,25684c25664
+<  3660  omnuo  om-noo'-o;
+< 
+<  a prolonged form of a primary,
+<                          but obsolete omo, for which
+<                          another prolonged form
+---
+>  3660  omnuo  om-noo'-o, a prolonged form of a primary, but obsolete omo {om-o'}, for which another prolonged form
+25969,25971c25949,25950
+<  3700  optanomai  op-tan'-om-ahee;
+< 
+<  a (middle voice) prolonged form of the primary (middle voice)
+---
+>  3700  optanomai  op-tan'-om-ahee, a (middle voice) prolonged form
+>                                    of the primary (middle voice)
+25973,25974c25952
+<                                    tenses; and both as alternate of
+<                                    3708;
+---
+>                                    tenses; and both as alternate of 3708;
+26738,26739c26716,26718
+<  3801  ho on  kai   ho en  kai   ho erchomenos
+<        ho own kahee ho ane kahee ho er-khom'-en-os
+---
+>  3801  ho on kai      ho own kahee  or
+>        ho en kai      ho ane kahee  or
+>        ho erchomenos  ho er-khom'-en-os
+28915c28894
+<  primary preo preh'-o; which occurs only as an alternate in certain
+---
+>  primary preo {preh'-o} which occurs only as an alternate in certain
+28932,28936c28911,28913
+<  4095  pino  pee'-no; 
+< 
+<  a prolonged form of
+<        pio   pee'-o;  which (together with another form)
+<        poo   po'-o; occurs only as an alternate in certain tenses; 
+---
+>  4095  pino  pee'-no, a prolonged form of
+>        pio   pee'-o,  which (together with another form)
+>        poo   po'-o
+28938c28915,28916
+<  to imbibe (literally or figuratively):--drink.
+---
+>  occurs only as an alternate in certain tenses; to imbibe (literally or
+>  figuratively):--drink.
+28952,28953c28930
+<        prao      prah'-o;     (which occurs only as an alternate in
+<                                certain tenses)
+---
+>        prao      prah'-o;     (which occurs only as an alternate in certain tenses);
+29185,29187c29162
+<  4130  pletho  play'-tho;
+< 
+<  a prolonged form of a primary
+---
+>  4130  pletho  play'-tho, a prolonged form of a primary
+29189,29190c29164
+<                           certain tenses and in the reduplicated form
+<                           pimplemi);
+---
+>                           certain tenses and in the reduplicated form pimplemi);
+29675,29677c29649
+<  of Latin origin;
+< 
+<  a sea; Pontus, a region of Asia Minor:--Pontus.
+---
+>  of Latin origin; a sea; Pontus, a region of Asia Minor:--Pontus.
+31677c31649
+<  see GREEK for 7343
+---
+>  see HEBREW for 7343
+31823,31825c31795
+<  a primary verb; for some tenses of which a prolonged form
+<              rheuo hryoo'-o is used
+< 
+---
+>  a primary verb; for some tenses of which a prolonged form rheuo {hryoo'-o} is used;
+32449,32452c32419
+<  4572  seautou  seh-ow-too';
+< 
+<  genitive case from 4571 and 846,
+<                              also dative case of the same,
+---
+>  4572  seautou  seh-ow-too', genitive case from 4571 and 846, also dative case of the same,
+33750c33717
+<  from 4760 and 757; a ruler of an army, i.e. (specially), a Prætorian
+---
+>  from 4760 and 757; a ruler of an army, i.e. (specially), a from 4760 and 757; a ruler of an army, i.e.
+33799,33801c33766
+<        stronnuo  strone-noo'-o;
+< 
+<  prolongation from a still simpler
+---
+>        stronnuo   strone-noo'-o, prolongation from a still simpler
+33802a33768
+> 
+36240,36244c36206,36207
+<  5087  tithemi  tith'-ay-mee;
+< 
+<  a prolonged form of a primary
+<        theo     theh'-o       (which is used only as alternate in
+<                                certain tenses);
+---
+>  5087  tithemi  tith'-ay-mee, a prolonged form of a primary
+>        theo     theh'-o       (which is used only as alternate in certain tenses);
+36339,36343c36302,36303
+<  5099  tino  tee'-no;
+< 
+<  strengthened for a primary
+<        tio   tee'-o    (which is only used as an alternate in
+<                         certain tenses);
+---
+>  5099  tino  tee'-no,  strengthened for a primary
+>        tio   tee'-o    (which is only used as an alternate in certain tenses)
+37901,37903c37861
+<  from 5302;
+< 
+<  a falling short, i.e. (specially), penury:--want.
+---
+>  from 5302; a falling short, i.e. (specially), penury:--want.
+38158c38116
+<  a primary verb (for which other, and apparently not cognate ones are
+---
+>  a primary verb -- for which other, and apparently not cognate ones are
