@@ -1,4 +1,4 @@
-# Hebrew Spellings for Strongs Dictionary 
+# Hebrew Spellings for Strongs Dictionary (touched 09/07/20 for commit test)
 # Note: 94 words are missing (idicated by NONE)
 # flat file database format
 # 3 fields per record: Strongs Number | D.H. Smith encoding | Unicode
