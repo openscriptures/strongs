@@ -17,8 +17,11 @@
 		<xsl:apply-templates select="osis:note[@type='translation']"/>
 		<xsl:apply-templates select="osis:foreign"/>
 		<xsl:apply-templates select="osis:list"/>
-		<xsl:text>},
-		</xsl:text>
+		<xsl:text>}</xsl:text>
+		<xsl:if test="position()!=last()">
+			<xsl:text>,
+</xsl:text>
+		</xsl:if>
 	</xsl:template>
 	
 	<xsl:template match="osis:w[@lemma]">
