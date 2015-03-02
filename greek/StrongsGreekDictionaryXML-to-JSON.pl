@@ -77,7 +77,12 @@ foreach my $entry (@entries){
 			$_->replaceNode($strongsGreekDoc->createTextNode('H' . $_->getAttribute('strongs')));
 		}
 		else {
-			$_->replaceNode($strongsGreekDoc->createTextNode('G' . $_->getAttribute('strongs') . ' (' . $strongsGreekDict{$strongs}->{lemma} . ')' ));
+			my $root_strongs = 'G' . (int $_->getAttribute('strongs'));
+			my $root_lemma = '';
+			if ( $strongsGreekDict{$root_strongs} ) {
+				$root_lemma = ' (' . $strongsGreekDict{$root_strongs}->{lemma} . ')';
+			}
+			$_->replaceNode($strongsGreekDoc->createTextNode( $root_strongs . $root_lemma ));
 		}
 		
 		
