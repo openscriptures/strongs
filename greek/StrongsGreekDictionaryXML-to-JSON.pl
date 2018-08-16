@@ -88,7 +88,12 @@ foreach my $entry (@entries){
 		
 	}
 	
-	
+	if($el = $entry->findnodes('./greek')->item(0)){
+		my $value = $el->getAttribute('translit');
+		$value =~ s{\s+}{ }g;
+		$strongsGreekDict{$strongs}->{translit} = $value;
+	}
+
 	if($el = $entry->findnodes('./kjv_def')->item(0)){
 		my $value = $el->textContent;
 		$value =~ s{\s+}{ }g;
