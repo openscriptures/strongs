@@ -5551,3 +5551,5 @@ var strongsGreekDictionary = {"G208":{"lemma":"ἀκυρόω","kjv_def":"disannu
 "G4604":{"derivation":"of uncertain derivation;","strongs_def":" iron","lemma":"σίδηρος","kjv_def":"iron"},
 "G2687":{"lemma":"καταστέλλω","kjv_def":"appease, quiet","derivation":"from G2596 (κατά) and G4724 (στέλλω);","strongs_def":" to put down, i.e. quell"},
 "G374":{"derivation":"from G303 (ἀνά) and G3982 (πείθω);","strongs_def":" to incite","kjv_def":"persuade","lemma":"ἀναπείθω"}};
+
+module.exports = strongsGreekDictionary;

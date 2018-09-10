@@ -8697,4 +8697,6 @@ var strongsHebrewDictionary = {"H1":{"lemma":"אָב","xlit":"ʼâb","pron":"awb
 "H8672":{"lemma":"תֵּשַׁע","xlit":"têshaʻ","pron":"tay'-shah","derivation":"or (masculine) תִּשְׁעָה; perhaps from H8159 (שָׁעָה) through the idea of a turn to the next or full number ten;","strongs_def":"nine or (ordinal) ninth","kjv_def":"nine ([phrase] -teen, [phrase] -teenth, -th)."},
 "H8673":{"lemma":"תִּשְׁעִים","xlit":"tishʻîym","pron":"tish-eem'","derivation":"multiple from H8672 (תֵּשַׁע);","strongs_def":"ninety","kjv_def":"ninety."},
 "H8674":{"lemma":"תַּתְּנַי","xlit":"Tattᵉnay","pron":"tat-ten-ah'-ee","derivation":"of foreign derivation;","strongs_def":"Tattenai, a Persian","kjv_def":"Tatnai."}
-}
+};
+
+module.exports = strongsHebrewDictionary;
