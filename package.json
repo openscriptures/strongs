@@ -1,0 +1,21 @@
+{
+  "name": "strongs",
+  "version": "1.0.1",
+  "description": "Strong's Dictionaries of Hebrew and Greek",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/openscriptures/strongs.git"
+  },
+  "keywords": [
+    "bible"
+  ],
+  "author": "Ben Dwyer <ben@scruffian.com>",
+  "bugs": {
+    "url": "https://github.com/openscriptures/strongs/issues"
+  },
+  "homepage": "https://github.com/openscriptures/strongs#readme"
+}
