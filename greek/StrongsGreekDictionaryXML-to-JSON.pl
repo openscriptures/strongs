@@ -127,7 +127,7 @@ foreach my $entry (@entries){
 
 my $json = NFC to_json(\%strongsGreekDict);
 $json =~ s/(?<=\},)/\n/g;
-print OUT "var strongsGreekDictionary = $json;";
+print OUT "var strongsGreekDictionary = $json; module.exports = strongsGreekDictionary;";
 close OUT;
 
 #use File::Copy;
