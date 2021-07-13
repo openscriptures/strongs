@@ -12,8 +12,8 @@
  * XML e-text version
  * ==================
  * From a source by David Instone-Brewer (www.2LetterLookup.com):
- * "The data came from several PD sources which were full of errors.
- * I cleaned them by comparing them to each other and (where
+ * "The data came from several PD sources which were full of errors. 
+ * I cleaned them by comparing them to each other and (where 
  * necessary) looking at the original."
  *
  * Editing, corrections and Unicode transliterations
